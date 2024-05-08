@@ -1,6 +1,6 @@
 # HealthQuiz
 
-HealthQuiz is the student project for the Programming 4 course in the Bachelor's studies in Computer Science at the University of Oulu, during in the spring of 2024. The Programming 4 course focuses on object-oriented programming and user interface design. HealthQuiz is an  mock-up/advertisement game that deals with questions about sleep, nutrition, and exercise. The user receives feedback based on user own answers. User can leave a message for the service provider and share the result on various social media channels. HealthQuiz is implemented using Java Swing technology. There is no real functionality for sending messages or sharing on social media. HealthQuiz is currently only in Finnish language.
+HealthQuiz is the student project for the Programming 4 course in the Bachelor's studies in Computer Science at the University of Oulu, during in the spring of 2024. The Programming 4 course focuses on object-oriented programming and user interface design. HealthQuiz is an  mock-up/advertisement game that deals with questions about sleep, nutrition, and exercise. The user receives feedback based on user own answers. User can leave a message for the service provider and share the result on various social media channels. HealthQuiz is implemented using Java Swing technology. **There is no real functionality for sending messages or sharing on social media.** HealthQuiz is currently only in Finnish language.
 
 
 ## Screenshot
@@ -19,7 +19,7 @@ HealthQuiz is the student project for the Programming 4 course in the Bachelor's
 
 ## Compile
 
-Use Maven to create package. Be sure you are in the same folder as the pom.xml
+Use Maven to create package. Be sure you are in the same folder as the pom.xml. In your CLI:
 
 ```bash
 mvn package
@@ -42,7 +42,9 @@ The game starts by selecting **'ALOITA >>>'**. The game provides instructions on
 
 You can quit the game at any time and any page by selecting **'Lopeta'** or just by closing the main window. Instructions are available during the game via the question mark ![Help](src/main/resources/help.png) icon.
 
-If you wish to play the game again, restart the game by running it from the command line or from your OS GUI. 
+If you wish to play the game again, restart the game by running it from the command line or from your OS GUI.
+
+**Your health and personal data will never be stored while game play**
 
 ## Contributing
 
