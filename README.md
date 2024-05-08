@@ -53,3 +53,4 @@ Pull requests are welcome. For bugs and feature requests, please do not hesitate
 ## License
 
 Copyright © 2024 [Heli Mikkonen](mailto:heli.mikkonen@student.oulu.fi), [Matti Tolonen](mailto:matti.tolonen@student.oulu.fi).
+[MIT](https://choosealicense.com/licenses/mit/)
