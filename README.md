@@ -46,7 +46,7 @@ If you wish to play the game again, restart the game by running it from the comm
 
 ## Contributing
 
-Pull requests are welcome. For bugs and feature requests, please do not hesitate to contact and make an issue
+Pull requests are welcome. For bugs and feature requests, please do not hesitate to [make an issue](https://github.com/Maantol/healthquiz/issues)
 
 ## License
 
